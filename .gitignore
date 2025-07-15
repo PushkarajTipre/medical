@@ -1,4 +1,5 @@
 *.pdf
  
+!Letter.pdf
 **/*temp
 **/*.cahce
